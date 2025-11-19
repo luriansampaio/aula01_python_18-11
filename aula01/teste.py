@@ -1,2 +1,2 @@
 # Testando 
-print('arquivo teste')git status
+print('arquivo teste')
